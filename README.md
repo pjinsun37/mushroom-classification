@@ -93,6 +93,6 @@ SHAP summary plots reveal the most influential features in classification:
 <p>&nbsp;</p>
 
 # 📂 Project Files
-mushrooms.csv: dataset containing 8,124 mushroom observations and 22 categorical features
+mushroom_data.csv: [Kaggle dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification) containing 8,124 mushroom observations and 22 categorical features.
 
 classification_code.ipynb: Main notebook with code implementation of the analysis.
