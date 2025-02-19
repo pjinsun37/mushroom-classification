@@ -19,6 +19,7 @@ We leveraged machine learning models that balance interpretability and predictiv
 - A gradient boosting model optimized for high performance.
 - The best model in terms of precision and recall but requires interpretability techniques like SHAP.
 
+
 **⚠️ Risk-Aware Model Design: Adjusted Loss Function**
 - Since misclassifying a poisonous mushroom as edible is far riskier than the reverse, we adjusted the classification loss function to penalize false negatives more heavily
 - Class Weights: This adjustment ensures that models prioritize identifying poisonous mushrooms correctly, significantly reducing high-risk errors.
