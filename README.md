@@ -1,4 +1,4 @@
-# mushroom-classification
+# Mushroom Classification
 
 # ‼️ Problem
 Mushroom foraging has grown in popularity, but with it comes an increased risk of mushroom poisoning. From January to October 2023, America’s Poison Centers reported an 11% rise in poisoning cases compared to 2022. Given the severe health consequences of misidentification, this project utilizes historical data to develop a model that can accurately classify mushrooms as edible or poisonous.
