@@ -90,4 +90,9 @@ SHAP summary plots reveal the most influential features in classification:
 
 <img width="958" alt="Screenshot 2025-02-20 at 12 56 59 AM" src="https://github.com/user-attachments/assets/494b286a-0841-4c4d-8a58-c2c0e67c18b6" />
 
+<p>&nbsp;</p>
 
+# 📂 Project Files
+mushrooms.csv: dataset containing 8,124 mushroom observations and 22 categorical features
+
+classification_code.ipynb: Main notebook with code implementation of the analysis.
